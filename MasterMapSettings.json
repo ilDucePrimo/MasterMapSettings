@@ -1,0 +1,18 @@
+{
+    "NoTeams": false,
+    "AlwaysScore": false,
+    "ForceNoScoring": false,
+    "MaximumCash": 16000,
+    "CashKillReward": 300,
+    "CashTeamKillPenalty": 3300,
+    "IncrementTeamScore": false,
+    "AutoRespawn": false,
+    "RespawnMaxDelay": 5,
+    "KeepBodies": false,
+    "KeepPawnIfAlive": false,
+    "InactivityThreashold": 60,
+    "InactivityDormantThreashold": 10,
+    "DynamicSpawns": true,
+    "SpawnGhostOnLogin": true,
+    "RoundDuration": 900
+}
