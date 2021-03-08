@@ -1,18 +1,20 @@
 {
-    "NoTeams": false,
-    "AlwaysScore": false,
-    "ForceNoScoring": false,
-    "MaximumCash": 16000,
-    "CashKillReward": 300,
-    "CashTeamKillPenalty": 3300,
-    "IncrementTeamScore": false,
-    "AutoRespawn": false,
-    "RespawnMaxDelay": 5,
-    "KeepBodies": false,
-    "KeepPawnIfAlive": false,
-    "InactivityThreashold": 60,
-    "InactivityDormantThreashold": 10,
-    "DynamicSpawns": true,
-    "SpawnGhostOnLogin": true,
-    "RoundDuration": 900
+  "LatestVersion": 6,
+  "AuthorizedHosts": [
+    "Catalina",
+    "Primo"
+  ],
+  "NoTeams": false,
+  "InactivityThreashold": 10,
+  "InactivityDormantThreashold": 10,
+  "RoundDuration": 900,
+  "StatTracking": {
+    "Detailed": true,
+    "Location": true,
+    "Damage": true
+  },
+  "RconCommands": {
+    "Flush": true,
+    "Hostkey": true
+  }
 }
