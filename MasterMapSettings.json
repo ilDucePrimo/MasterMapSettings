@@ -1,20 +1,8 @@
 {
-  "LatestVersion": 6,
-  "AuthorizedHosts": [
-    "Catalina",
-    "Primo"
-  ],
-  "NoTeams": false,
-  "InactivityThreashold": 10,
-  "InactivityDormantThreashold": 10,
-  "RoundDuration": 900,
-  "StatTracking": {
-    "Detailed": true,
-    "Location": true,
-    "Damage": true
-  },
-  "RconCommands": {
-    "Flush": true,
-    "Hostkey": true
-  }
+	"DeviceId": "b01a25cb532b4541",
+	"PlayerName": "ilDucePrimo",
+	"JoinTime": "2021.05.06-01.05.18",
+	"LeaveTime": "2021.05.06-01.07.02",
+	"ZombiesKilled": 3,
+	"CratesLooted": 4
 }
