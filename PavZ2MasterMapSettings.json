@@ -1,6 +1,6 @@
 {
 	"VersionId": 1,
 	"ShackVersionId": 1,
-	"ShackWhitelist": true,
+	"ShackWhitelist": false,
 	"PCWhitelist": false
 }
